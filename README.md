@@ -1,5 +1,4 @@
 ### Hi there 👋
-- 🔭 I’m currently working in Back End Development with Java Quarkus.
--  🌱 I’m currently learning Flutter and VueJS.
-- 😄 Pronouns: she/her, ela/dela.
+- 🔭 I’m currently working in Android and iOS Development with Kotlin, Java and Swift.
+-  🌱 I’m currently learning Flutter and VueJS
 - 📫 How to reach me: eduardamachagas@gmail.com and eduardamchagas on insta
