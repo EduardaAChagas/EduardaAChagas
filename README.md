@@ -5,7 +5,7 @@ I'm **Eduarda Chagas**, a mobile developer passionate about building Android and
 
 ## 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,java,swift,flutter,dart,git,github,figma" />
+  <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,java,swift,flutter,git,github,figma" />
 </p>
 
 <p align="center">
