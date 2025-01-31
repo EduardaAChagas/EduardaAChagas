@@ -1,6 +1,7 @@
 # Hi there 👋
 
-I'm Eduarda Chagas, a passionate mobile developer specializing in Android and iOS development. I love creating seamless and user-friendly applications that make a difference. Currently, I'm diving into the world of Swift iOS to expand my skill set and create cross-platform wonders.
+I'm **Eduarda Chagas**, a mobile developer passionate about building Android and iOS apps. Currently exploring **Swift iOS** for cross-platform magic!
+
 ---
 
 ## 🛠️ Tech Stack
