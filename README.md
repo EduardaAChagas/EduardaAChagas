@@ -2,7 +2,6 @@
 
 I'm **Eduarda Chagas**, a mobile developer passionate about building Android and iOS apps. Currently exploring **Swift iOS** for cross-platform magic!
 
----
 
 ## 🛠️ Tech Stack
 <p align="center">
