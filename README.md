@@ -2,10 +2,9 @@
 
 I'm **Eduarda Chagas**, a mobile developer passionate about building Android and iOS apps. Currently exploring **Swift iOS** and **.NET MAUI** for cross-platform magic!
 
-
 ## 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,java,swift,flutter,git,github,figma" />
+  <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,java,swift,flutter,dotnet,cs,git,github,figma" />
 </p>
 
 <p align="center">
