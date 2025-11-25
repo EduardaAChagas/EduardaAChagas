@@ -33,24 +33,6 @@ Nas horas vagas exploro ainda mais o ecossistema Flutter em projetos pessoais <3
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
 ![SQLite](https://img.shields.io/badge/-SQLite-333333?style=flat&logo=sqlite)
 
-### **🔧 Utilidades**
-![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
-![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
-![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
-![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello)
-![Jira](https://img.shields.io/badge/-Jira-333333?style=flat&logo=jira)
-
-### **⚙️ DevOps & Controle de Versão**
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-333333?style=flat&logo=githubactions)
-
-### **🧰 Ferramentas de Desenvolvimento**
-![Android Studio](https://img.shields.io/badge/-Android%20Studio-333333?style=flat&logo=androidstudio)
-![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visualstudiocode)
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-333333?style=flat&logo=visualstudio)
-
 ---
 
 ## 📊 GitHub Analytics
