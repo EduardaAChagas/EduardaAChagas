@@ -5,10 +5,6 @@ Atualmente trabalho na **Climatempo / Stormgeo** como **Flutter Mid-Level Develo
 Nas horas vagas exploro ainda mais o ecossistema Flutter em projetos pessoais <3
 
 ---
-
-## 🚀 Minhas Skills · Tech Stack
-
-### **📱 Desenvolvimento Mobile**
 ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter)
 ![Dart](https://img.shields.io/badge/-Dart-333333?style=flat&logo=dart)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=flat&logo=kotlin)
@@ -20,18 +16,6 @@ Nas horas vagas exploro ainda mais o ecossistema Flutter em projetos pessoais <3
 ![DataStore](https://img.shields.io/badge/-DataStore-333333?style=flat&logo=android)
 ![CameraX](https://img.shields.io/badge/-CameraX-333333?style=flat&logo=android)
 ![ML Kit](https://img.shields.io/badge/-ML%20Kit-333333?style=flat&logo=google)
-
-### **🖥️ Desktop & Fullstack**
-![.NET MAUI](https://img.shields.io/badge/.NET%20MAUI-333333?style=flat&logo=dotnet)
-![C#](https://img.shields.io/badge/-CSharp-333333?style=flat&logo=csharp)
-![Blazor](https://img.shields.io/badge/-Blazor-333333?style=flat&logo=blazor)
-![SQLite](https://img.shields.io/badge/-SQLite-333333?style=flat&logo=sqlite)
-![REST APIs](https://img.shields.io/badge/-REST%20APIs-333333?style=flat&logo=api)
-
-### **🗄️ Banco de Dados**
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
-![SQLite](https://img.shields.io/badge/-SQLite-333333?style=flat&logo=sqlite)
 
 ---
 
