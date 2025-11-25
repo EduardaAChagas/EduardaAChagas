@@ -1,37 +1,59 @@
 # Oiiiii 👋
 
-Hello, there! I'm **Eduarda Chagas**, a brazilian mobile developer and computer scientist passionate about building Android and iOS apps. Currently exploring **FLutter** for some amazing international projects!
-I'm currently working on Climatempo and Stormgeo as a Flutter Mid-Level Developer! And also exploring a lot more that flutter can offer on personal projects <3
+Hello, there! I'm **Eduarda Chagas**, a Brazilian **Mobile Developer** and **Computer Scientist** that loves building Android and iOS applications.
+Atualmente trabalho na **Climatempo / Stormgeo** como **Flutter Mid-Level Developer**, criando soluções mobile internacionais 🌎  
+Nas horas vagas exploro ainda mais o ecossistema Flutter em projetos pessoais <3
 
-## Minhas Skills 🛠️ Tech Stack
+---
 
-**Aplicações e dados**
+## 🚀 Minhas Skills · Tech Stack
 
+### **📱 Desenvolvimento Mobile**
+![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter)
+![Dart](https://img.shields.io/badge/-Dart-333333?style=flat&logo=dart)
+![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=flat&logo=kotlin)
+![Android](https://img.shields.io/badge/-Android-333333?style=flat&logo=android)
+![Jetpack Compose](https://img.shields.io/badge/-Jetpack%20Compose-333333?style=flat&logo=jetpackcompose)
+![Hilt](https://img.shields.io/badge/-Hilt-333333?style=flat&logo=android)
+![Room](https://img.shields.io/badge/-Room-333333?style=flat&logo=sqlite)
+![Retrofit](https://img.shields.io/badge/-Retrofit-333333?style=flat&logo=square)
+![DataStore](https://img.shields.io/badge/-DataStore-333333?style=flat&logo=android)
+![CameraX](https://img.shields.io/badge/-CameraX-333333?style=flat&logo=android)
+![ML Kit](https://img.shields.io/badge/-ML%20Kit-333333?style=flat&logo=google)
 
-![JavaScript](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter)
-![TypeScript](https://img.shields.io/badge/-Dart-333333?style=flat&logo=dart)
+### **🖥️ Desktop & Fullstack**
+![.NET MAUI](https://img.shields.io/badge/.NET%20MAUI-333333?style=flat&logo=dotnet)
+![C#](https://img.shields.io/badge/-CSharp-333333?style=flat&logo=csharp)
+![Blazor](https://img.shields.io/badge/-Blazor-333333?style=flat&logo=blazor)
+![SQLite](https://img.shields.io/badge/-SQLite-333333?style=flat&logo=sqlite)
+![REST APIs](https://img.shields.io/badge/-REST%20APIs-333333?style=flat&logo=api)
+
+### **🗄️ Banco de Dados**
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-![Postgres](https://img.shields.io/badge/-PostgresSQL-333333?style=flat&logo=postgresql)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
+![SQLite](https://img.shields.io/badge/-SQLite-333333?style=flat&logo=sqlite)
 
-**Utilidades**
-
+### **🔧 Utilidades**
 ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
+![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
+![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello)
+![Jira](https://img.shields.io/badge/-Jira-333333?style=flat&logo=jira)
 
-**DevOps**
-
+### **⚙️ DevOps & Controle de Versão**
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-333333?style=flat&logo=githubactions)
 
-**Ferramentas de desenvolvimento**
+### **🧰 Ferramentas de Desenvolvimento**
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-333333?style=flat&logo=androidstudio)
+![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visualstudiocode)
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-333333?style=flat&logo=visualstudio)
 
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
-![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
+---
 
-<br/>
-
-### ⚙️ GitHub Analytics
+## 📊 GitHub Analytics
 
 <table>
   <tr>
@@ -39,14 +61,14 @@ I'm currently working on Climatempo and Stormgeo as a Flutter Mid-Level Develope
       <img
         align="left"
         src="https://github-readme-stats.vercel.app/api?username=EduardaAChagas&theme=dark&hide_border=false&include_all_commits=true"
-        alt="Github Stats"
+        alt="GitHub Stats"
       />
     </td>
     <td>
       <img
         align="left"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardaAChagas&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-        alt="Github Stats"
+        alt="Top Langs"
       />
     </td>
     <td>
@@ -54,26 +76,21 @@ I'm currently working on Climatempo and Stormgeo as a Flutter Mid-Level Develope
       <img
         align="left"
         src="https://github-readme-streak-stats.herokuapp.com/?user=EduardaAChagas&theme=dark&hide_border=false"
-        alt="Github Stats"
+        alt="GitHub Streak"
       />
     </td>
   </tr>
 </table>
 
---- 
+---
 
-### 🏆 GitHub Profile Trophy
+## 🏆 GitHub Profile Trophy
 
 <p align="center">
-  <a
-    href="https://github.com/ryo-ma/github-profile-trophy"
-    title="repositório de troféus"
-  >
-    <img
-      width="800"
-      src="https://github-profile-trophy.vercel.app/?username=EduardaAChagas&column=8&theme=darkhub&no-frame=true&no-bg=true"
-    />
-  </a>
+  <img
+    width="800"
+    src="https://github-profile-trophy.vercel.app/?username=EduardaAChagas&column=8&theme=darkhub&no-frame=true&no-bg=true"
+  />
 </p>
 
 ---
