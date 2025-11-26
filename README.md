@@ -17,7 +17,7 @@ B.Sc. in Computer Science (UFMA).
 
 <br>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=EduardaAChagas&theme=violet-pink&hide_border=true)
+![GitHub Streak](https://streak-stats.vercel.app/?user=EduardaAChagas)
 
 <br>
 
