@@ -19,6 +19,10 @@ B.Sc. in Computer Science (UFMA).
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=EduardaAChagas&theme=violet-pink&hide_border=true)
 
+<br>
+
+![Top Langs](https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=EduardaAChagas&layout=compact&theme=violet-pink&hide_border=true)
+
 
 ━━ ✧ ━━
 
