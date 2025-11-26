@@ -1,73 +1,39 @@
-# Oiiiii 👋
+# Hiiii, I'm Eduarda
 
-Hello, there! I'm **Eduarda Chagas**, a Brazilian **Mobile Developer** and **Computer Scientist** that loves building Android and iOS applications.
-Atualmente trabalho na **Climatempo / Stormgeo** como **Flutter Mid-Level Developer**, criando soluções mobile internacionais 🌎  
-Nas horas vagas exploro ainda mais o ecossistema Flutter em projetos pessoais <3
+> Mobile Software Engineer at Climatempo / StormGeo.  
+Working across international products and distributed teams.  
+B.Sc. in Computer Science (UFMA).
 
----
-![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter)
-![Dart](https://img.shields.io/badge/-Dart-333333?style=flat&logo=dart)
-![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=flat&logo=kotlin)
-![Android](https://img.shields.io/badge/-Android-333333?style=flat&logo=android)
-![Jetpack Compose](https://img.shields.io/badge/-Jetpack%20Compose-333333?style=flat&logo=jetpackcompose)
-![Hilt](https://img.shields.io/badge/-Hilt-333333?style=flat&logo=android)
-![Room](https://img.shields.io/badge/-Room-333333?style=flat&logo=sqlite)
-![Retrofit](https://img.shields.io/badge/-Retrofit-333333?style=flat&logo=square)
-![DataStore](https://img.shields.io/badge/-DataStore-333333?style=flat&logo=android)
-![CameraX](https://img.shields.io/badge/-CameraX-333333?style=flat&logo=android)
-![ML Kit](https://img.shields.io/badge/-ML%20Kit-333333?style=flat&logo=google)
+━━ ✧ ━━
 
----
+**Languages**
 
-## 📊 GitHub Analytics
+<img src="https://img.shields.io/badge/English-Fluent-9370DB?style=for-the-badge&labelColor=ffffff&logoColor=9370DB" />
+<img src="https://img.shields.io/badge/Spanish-Work%20Level-BA99F4?style=for-the-badge&labelColor=ffffff&logoColor=BA99F4" />
+<img src="https://img.shields.io/badge/Portuguese-Native-C7A6FF?style=for-the-badge&labelColor=ffffff&logoColor=C7A6FF" />
 
-<table>
-  <tr>
-    <td>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api?username=EduardaAChagas&theme=dark&hide_border=false&include_all_commits=true"
-        alt="GitHub Stats"
-      />
-    </td>
-    <td>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardaAChagas&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-        alt="Top Langs"
-      />
-    </td>
-    <td>
-      <br />
-      <img
-        align="left"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=EduardaAChagas&theme=dark&hide_border=false"
-        alt="GitHub Streak"
-      />
-    </td>
-  </tr>
-</table>
+━━ ✧ ━━
 
----
+| Android | iOS | Cross |
+|--------|------|--------|
+| <img src="https://skillicons.dev/icons?i=kotlin&theme=light" width="38"/> <img src="https://skillicons.dev/icons?i=androidstudio&theme=light" width="38"/> | <img src="https://skillicons.dev/icons?i=swift&theme=light" width="38"/> <img src="https://skillicons.dev/icons?i=apple&theme=light" width="38"/> | <img src="https://skillicons.dev/icons?i=flutter&theme=light" width="38"/> <img src="https://skillicons.dev/icons?i=dart&theme=light" width="38"/> |
 
-## 🏆 GitHub Profile Trophy
 
-<p align="center">
-  <img
-    width="800"
-    src="https://github-profile-trophy.vercel.app/?username=EduardaAChagas&column=8&theme=darkhub&no-frame=true&no-bg=true"
-  />
-</p>
+━━ ✧ ━━
 
----
+![profile view](https://komarev.com/ghpvc/?username=EduardaAChagas&color=9370DB&style=flat)
 
-<div align="center">
-  <h3><b>📍 Profile Visitor Count</b></h3>
-</div>
+<br>
 
-<p align="center">
-  <img
-    src="https://profile-counter.glitch.me/EduardaAChagas/count.svg"
-    alt="Número de visitantes no perfil"
-  />
-</p>
+![GitHub Streak](https://streak-stats.demolab.com?user=EduardaAChagas&theme=violet-pink&hide_border=true)
+
+
+━━ ✧ ━━
+
+### Interests
+- Architecture (MVVM / Clean)  
+- UI Animations with Jetpack Compose & SwiftUI  
+- On-device Machine Learning (ML Kit / CoreML)  
+- Multiplatform engineering with KMM  
+
+━━ ✧ ━━
